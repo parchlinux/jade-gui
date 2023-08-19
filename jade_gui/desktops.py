@@ -1,5 +1,4 @@
 desktops = [
-    "Onyx",
     "GNOME",
     "Plasma",
     "XFCE",
